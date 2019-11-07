@@ -1,6 +1,6 @@
 # ParaviewQuick-Intro
 
-The subroutine OutputParaview3D.f90 is written in FORTRAN 90 and it prints the 3D steady state solution in Paraview for cartesian coordinates; either unstructured or structured mesh. 
+The subroutine OutputParaview3D.f90 is written in FORTRAN 90 and it prints the 3D steady state solution in Paraview for cartesian coordinates only for structured mesh. 
 It prints: Pressure, Temperature and Density as scalar functions, and Velocity (U,V and W) as vectorial functions. Thus, the Velocity vector is read by Paraview as a vector. 
 This Subroutine creates a set of files that Paraview requires. The output contains information about the geometry, the case and the CFD solution (only primitive variables for 2D). 
 The extension of the file is EnsightGold and the type of file is Binary. 
