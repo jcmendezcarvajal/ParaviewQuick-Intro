@@ -16,3 +16,5 @@ Spanwise velocity = w_old
 This was developed with the help of my colleague David Doodoamoo.
 This was created back in 2016 so there are details I may not remember (11/3/2016)
 
+In 2016 I gave a workshop to my research group team. The idea was to introduce Paraview to the newer members. I put together a couple of slides to make the introduction faster and smoother. Find the slides and files on the following link:https://www.dropbox.com/s/1qipszjcprcuahu/ParaviewWorkshop.zip?dl=0
+
